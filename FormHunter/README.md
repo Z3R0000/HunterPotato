@@ -7,7 +7,7 @@ This grabber will grab all of the posted data to this url .
 **Debugging**
 > Helpful for checking what type of data a site is postting. 
 
-**Phishing*"
+**Phishing**
 > When you are building a phishing site , use this grabber as your action page
 
 **Saved Password**
