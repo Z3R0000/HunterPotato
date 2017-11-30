@@ -13,7 +13,7 @@ This grabber will grab the user ip on this url .
 
 ## Image Encoder
 
-This grabber will grab the user ip on this url .
+This encoder will encode the image in base64 .
 
 ## Useful For
 **Source Hiding**
