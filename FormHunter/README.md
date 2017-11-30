@@ -13,4 +13,9 @@ This grabber will grab all of the posted data to this url .
 **Saved Password**
 > Want to see what passwords you have saved in the browser? use inspect element and change the `action` attribute of current `<form>`  element to your grabber url. Then submit the form. Done !
 
+
+# jsBackdoor.js
+
+> Before injecting this js , be sure that the site has jQuery . if not , try to inject jQuery too . 
+
 - **Ratul Ahsan Ovi**
